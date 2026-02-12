@@ -20,7 +20,26 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+
+  background-image: url("/images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
+
+/* Overlay equilibrado para atardecer */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0.75),
+    rgba(0,0,0,0.65)
+  );
+  z-index: -1;
+}
+
 
 /* =====================
    APP LAYOUT

@@ -148,7 +148,7 @@ Las actualizaciones del estado provocan re-render automático.
 
 ### ➕ Vista Formulario (Crear / Editar)
 
-![Vista Formulario](iamges/form.png)
+![Vista Formulario](images/form.png)
 
 ---
 
@@ -164,7 +164,7 @@ Las actualizaciones del estado provocan re-render automático.
 
 ### 📱 Vista Responsive (Mobile)
 
-![Vista Mobile](iamges/mobile.png)
+![Vista Mobile](images/mobile.png)
 
 ---
 

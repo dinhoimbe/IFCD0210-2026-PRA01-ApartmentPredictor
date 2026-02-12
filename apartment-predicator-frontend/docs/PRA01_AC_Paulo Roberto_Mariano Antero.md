@@ -105,7 +105,7 @@ App actualiza estado → re-render
 
 ### 🔎 Vista Detalle
 
-![Vista Detalle](docs/detail.png)
+![Vista Detalle](detail.png)
 
 ---
 
@@ -129,7 +129,7 @@ stateDiagram-v2
 
 ### 📋 Vista Listado
 
-![Vista Listado](docs/list.png)
+![Vista Listado](list.png)
 
 ---
 
@@ -148,7 +148,7 @@ Las actualizaciones del estado provocan re-render automático.
 
 ### ➕ Vista Formulario (Crear / Editar)
 
-![Vista Formulario](docs/form.png)
+![Vista Formulario](form.png)
 
 ---
 
@@ -164,7 +164,7 @@ Las actualizaciones del estado provocan re-render automático.
 
 ### 📱 Vista Responsive (Mobile)
 
-![Vista Mobile](docs/mobile.png)
+![Vista Mobile](mobile.png)
 
 ---
 
